@@ -1,0 +1,10 @@
+.main{
+	width:80%;
+	margin: 0 auto;
+}
+
+.news {
+	margin: 10px;
+	border: 2px solid black;
+	background-color: lightblue;
+}
